@@ -1,0 +1,3 @@
+OLLAMA_HOST = "http://127.0.0.1:11434"
+GEMMA_MODEL = "gemma3:4b"
+MAX_IMAGE_MB = 10
